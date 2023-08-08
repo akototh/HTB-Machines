@@ -10,16 +10,10 @@ Posting machine writeups as I complete them.
 | Easy       | [Nibbles][2]                                | Web          | √         |
 
 
-[1]: ./a_little_something_to_get_you_started
-[2]: ./micro-cms_v1
-[3]: ./micro-cms_v2
-[4]: ./encrypted_pastebin
-[5]: ./photo_gallery
-[6]: ./codys_first_blog
-[7]: ./postbook
-[8]: ./ticketastic_demo_instance
-[9]: ./ticketastic_live_instance
-[10]: ./petshop_pro
+[1]: ./Linux-machines/Lame/README.md
+[2]: ./Linux-machines/Nibbles/README.md
+
+
 
 ## Windows
 
@@ -28,5 +22,5 @@ Posting machine writeups as I complete them.
 | Easy       | [Optimum][10]                               | Web          | √         |
 | Hard       | [Cerberus][11]                              | Web          | √         |
 
-[10]: ./a_little_something_to_get_you_started
-[11]: ./micro-cms_v1
+[10]: ./Windows-machines/Optimum/README.md
+[11]: ./Windows-machines/Cerberus/README.md
